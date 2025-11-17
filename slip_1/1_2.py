@@ -14,6 +14,4 @@ sns.scatterplot(x='sepal length (cm)', y='sepal width (cm)', hue='species', data
 plt.title('Scatter Plot of Sepal Length vs Sepal Width')
 plt.xlabel('Sepal Length (cm)')
 plt.ylabel('Sepal Width (cm)')
-
-# Show plot
 plt.show()
